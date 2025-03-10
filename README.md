@@ -58,7 +58,7 @@
   </a>
 <p align="center">
   <a href="https://github.com/JCOMG" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" alt="GitHub">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" alt="GitHub" style="filter: drop-shadow(0px 0px 10px #ffffff);">
   </a>
 </p>
 
