@@ -56,22 +56,9 @@
   <a href="https://www.linkedin.com/in/chih-lin-chuang-98a626250/" target="_blank">
     <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="60" alt="LinkedIn">
   </a>
-<a href="https://github.com/JCOMG" target="_blank">
-    <img src="https://raw.githubusercontent.com/JCOMG/JCOMG/main/github-animated.svg" width="80" alt="GitHub">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chih-lin-chuang-98a626250/" target="_blank">
-    <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="60" alt="LinkedIn">
-  </a>
   <a href="https://github.com/JCOMG" target="_blank">
     <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="80" alt="GitHub">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=420&height=30&lines=Let's+Connect+on+GitHub+%26+LinkedIn!;Building+Awesome+Projects+Together!;Coding+is+an+Art!">
 </p>
 
 
