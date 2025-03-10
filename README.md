@@ -6,12 +6,12 @@
 
 
 # 👨‍💻 About me 
-##🎯 Aspiring Full-Stack Developer | Exploring Backend & AI
-##🔥 Passionate about problem-solving, algorithms, and AI-driven applications
-##🎯 Currently learning React, and exploring AI/ML
+## 🎯 Aspiring Full-Stack Developer | Exploring Backend & AI
+## 🔥 Passionate about problem-solving, algorithms, and AI-driven applications
+## 🎯 Currently learning React, and exploring AI/ML
 
 
-![GitHub Skyline](https://github.com/JCOMG/JCOMG/raw/main/skyline.png)
+![GitHub Snake Light](https://github.com/JCOMG/JCOMG/raw/output/github-contribution-grid-snake.svg)
 
 
 
