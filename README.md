@@ -6,12 +6,12 @@
 
 
 # 👨‍💻 About me 
-## 🎯 Aspiring Full-Stack Developer | Exploring Backend & AI
-## 🔥 Passionate about problem-solving, algorithms, and AI-driven applications
-## 🎯 Currently learning React, and exploring AI/ML
+### 🎯 Aspiring Full-Stack Developer | Exploring Backend & AI
+### 🔥 Passionate about problem-solving, algorithms, and AI-driven applications
+### 🎯 Currently learning React, and exploring AI/ML
 
 
-![GitHub Snake Light](https://github.com/JCOMG/JCOMG/raw/output/github-contribution-grid-snake.svg)
+![GitHub Commit ASCII](https://github-readme-stats.vercel.app/api?username=JCOMG&show_icons=true&theme=dracula&hide_title=true)
 
 
 
