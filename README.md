@@ -11,7 +11,7 @@
 ### 🎯 Currently learning React, and exploring AI/ML
 
 
-![GitHub Commit ASCII](https://github-readme-stats.vercel.app/api?username=JCOMG&show_icons=true&theme=dracula&hide_title=true)
+(https://github-readme-stats.vercel.app/api?username=JCOMG&show_icons=true&theme=dracula&hide_title=true)
 
 
 
