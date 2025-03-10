@@ -22,6 +22,9 @@
 ![](https://komarev.com/ghpvc/?username=JCOMG&color=blue&style=flat-square&label=Visitors)
 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JCOMG&theme=react-dark)
+
+
 
 
 
