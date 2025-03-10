@@ -56,22 +56,10 @@
   <a href="https://www.linkedin.com/in/chih-lin-chuang-98a626250/" target="_blank">
     <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="60" alt="LinkedIn">
   </a>
-<p align="center">
-  <a href="https://github.com/JCOMG" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" alt="GitHub" style="filter: drop-shadow(0px 0px 10px #ffffff);">
+<a href="https://github.com/JCOMG" target="_blank">
+    <img src="https://raw.githubusercontent.com/JCOMG/JCOMG/main/github-animated.svg" width="80" alt="GitHub">
   </a>
 </p>
-
-<style>
-  img {
-    animation: bounce 1s infinite alternate;
-  }
-  
-  @keyframes bounce {
-    0% { transform: translateY(0); }
-    100% { transform: translateY(-10px); }
-  }
-</style>
 
 
 
