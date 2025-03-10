@@ -56,12 +56,15 @@
   <a href="https://www.linkedin.com/in/chih-lin-chuang-98a626250/" target="_blank">
     <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="60" alt="LinkedIn">
   </a>
-<p align="center">
   <a href="https://github.com/JCOMG" target="_blank">
     <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="80" alt="GitHub">
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/JCOMG" target="_blank">
+    <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="80" alt="GitHub">
+  </a>
 </p>
 
 
