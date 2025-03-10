@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=JCOMG&color=blue&style=flat-square&label=Visitors)
 # 🏗 Hi, I am Jimmy, welcome to my GitHub! 👋
 
 <p align="center">
@@ -19,7 +20,6 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=JCOMG&color=blue&style=flat-square&label=Visitors)
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JCOMG&theme=react-dark)
@@ -55,6 +55,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCOMG&theme=tokyonight)
 
-
-![GitHub Skyline](https://skyline.github.com/JCOMG/2024)
 
