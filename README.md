@@ -11,8 +11,8 @@
 ### 🎯 Currently learning React, and exploring AI/ML
 
 
-[(https://github-readme-stats.vercel.app/api?username=JCOMG&show_icons=true&theme=dracula&hide_title=true)
-](https://github-readme-stats.vercel.app/api?username=JCOMG&show_icons=true&theme=dracula)
+(https://github-readme-stats.vercel.app/api?username=JCOMG&show_icons=true&theme=dracula&hide_title=true)
+(https://github-readme-stats.vercel.app/api?username=JCOMG&show_icons=true&theme=dracula)
 
 
 
