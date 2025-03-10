@@ -11,7 +11,7 @@
 ##🎯 Currently learning React, and exploring AI/ML
 
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JCOMG&layout=compact&theme=tokyonight)
+![GitHub Skyline](https://github.com/JCOMG/JCOMG/raw/main/skyline.png)
 
 
 
