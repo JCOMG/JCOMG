@@ -57,7 +57,7 @@
     <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="60" alt="LinkedIn">
   </a>
  <a href="https://github.com/JCOMG" target="_blank">
-    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="60" alt="GitHub">
+    <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="60" alt="GitHub">
   </a>
 </p>
 
