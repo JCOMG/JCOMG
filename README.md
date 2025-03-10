@@ -14,6 +14,7 @@
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JCOMG&theme=tokyonight)
 
 
+![Snake animation](https://github.com/JCOMG/JCOMG/raw/output/github-contribution-grid-snake.svg)
 
 
 
