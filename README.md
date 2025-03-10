@@ -6,12 +6,12 @@
 
 
 # 👨‍💻 About me 
-🎯 Aspiring Full-Stack Developer | Exploring Backend & AI
-🔥 Passionate about problem-solving, algorithms, and AI-driven applications
-🎯 Currently learning React, and exploring AI/ML
+##🎯 Aspiring Full-Stack Developer | Exploring Backend & AI
+##🔥 Passionate about problem-solving, algorithms, and AI-driven applications
+##🎯 Currently learning React, and exploring AI/ML
 
 
-![GitHub Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=JCOMG&theme=react-dark)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JCOMG&layout=compact&theme=tokyonight)
 
 
 
