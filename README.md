@@ -4,7 +4,17 @@
 
 ## <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="5000">
 
+
+# 👨‍💻 About me 
+🎯 Aspiring Full-Stack Developer | Exploring Backend & AI
+🔥 Passionate about problem-solving, algorithms, and AI-driven applications
+🎯 Currently learning React, and exploring AI/ML
+
+
 ![GitHub Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=JCOMG&theme=react-dark)
+
+
+
 
 
 🛠 Tech Stack
