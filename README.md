@@ -1,7 +1,9 @@
-# 🏗  Hi, welcome to my GitHub 
+# 🏗 Hi, welcome to my GitHub! 👋
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=420&height=30&lines=Welcome+to+my+GitHub!;I+love+coding+💻;Full-Stack+Developer+in+progress!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&height=40&lines=Welcome+to+my+GitHub!;I+love+coding+💻;Aspiring+Full-Stack+Developer!">
 </p>
+
 
 
 
@@ -14,7 +16,6 @@
 ### 🎯 Currently learning React, exploring AI/ML tools 
 
 
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JCOMG&theme=tokyonight)
 
 
 
@@ -22,7 +23,6 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCOMG&show_icons=true&theme=radical&hide_title=true)
 
 
 
