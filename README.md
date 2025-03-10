@@ -54,16 +54,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jimmy-chuang/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/JCOMG" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-<p align="center">
-  <a href="https://www.linkedin.com/in/jimmy-chuang/" target="_blank">
     <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="60" alt="LinkedIn">
   </a>
   <a href="https://github.com/JCOMG" target="_blank">
@@ -71,10 +61,5 @@
   </a>
 </p>
 
----
 
-### 🔥 "Follow Me" 文字動畫
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=420&height=30&lines=Follow+Me+on+LinkedIn+and+GitHub!;Let's+Connect+%F0%9F%92%AC;Let's+Build+Something+Awesome!">
-</p>
 
