@@ -57,9 +57,10 @@
     <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="60" alt="LinkedIn">
   </a>
   <a href="https://github.com/JCOMG" target="_blank">
-    <img src="https://media.giphy.com/media/l3q2wJsC23ikHfbH6/giphy.gif" width="60" alt="GitHub">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" alt="GitHub">
   </a>
 </p>
+
 
 
 
