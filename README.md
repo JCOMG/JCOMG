@@ -20,15 +20,6 @@
 
 
 
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JCOMG&theme=react-dark)
-
-
-
-
-
-
 ## **🛠 Tech Stack**
 <p align="center"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
@@ -52,7 +43,9 @@
 </p>
 
 
+## **🔥 Code Activity**
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JCOMG&theme=tokyonight)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JCOMG&theme=react-dark)
 
