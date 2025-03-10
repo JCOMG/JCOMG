@@ -56,6 +56,7 @@
   <a href="https://www.linkedin.com/in/chih-lin-chuang-98a626250/" target="_blank">
     <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="60" alt="LinkedIn">
   </a>
+<p align="center">
   <a href="https://github.com/JCOMG" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" alt="GitHub">
   </a>
@@ -71,6 +72,7 @@
     100% { transform: translateY(-10px); }
   }
 </style>
+
 
 
 
